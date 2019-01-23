@@ -11,5 +11,5 @@ $ docker-compose up -d
 $ docker-compose down --volumes
 ```
 
-Article on how to migrate current wordpress site into docker
+Article on how to migrate current wordpress site into docker   
 https://codeblog.dotsandbrackets.com/migrate-wordpress-docker/
