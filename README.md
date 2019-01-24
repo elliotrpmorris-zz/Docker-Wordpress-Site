@@ -8,7 +8,7 @@ $ docker-compose up -d
 
 ### To take down the container
 ```
-$ docker-compose down --volumes
+$ docker-compose down 
 ```
 
 Article on how to migrate current wordpress site into docker   
